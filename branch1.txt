@@ -1,1 +1,2 @@
 This is branch1's file.
+change to master and edit branch1.txt.
