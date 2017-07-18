@@ -1,5 +1,5 @@
 line1//add a comment and commit all branchs.
-line2//add a comment and commit all branchs.
+123line2//add a comment and commit all branchs.
 line3
 line4
 标记一次提交，并从这次提交中检出一个分支
