@@ -1,2 +1,3 @@
 this is branch1's file.
 this is master edit line.
+this is branch1 add line.
