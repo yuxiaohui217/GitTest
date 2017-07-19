@@ -5,3 +5,4 @@ line4
 this is pre-commit test.
 ssssssssssssssssssssssssssssssssss
 bbb
+cccc
